@@ -16,6 +16,19 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jaberdevhub&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaberdevhub&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/VISITORS-COUNT-green?style=for-the-badge&logo=Matrix&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Matrix Visitor Counter" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jaberdevhub&label=Incoming+Signals&color=00ff41&style=flat-square" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Matrix Snake" />
+</p>
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaberdevhub&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
