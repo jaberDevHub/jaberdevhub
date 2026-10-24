@@ -18,7 +18,8 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jaberdevhub&theme=ocean&border_radius=20.5)
 
-[![committers.top badge](https://user-badge.committers.top/bangladesh/USERNAME.svg)](https://user-badge.committers.top/bangladesh/jaberdevhub)
+[![committers.top badge](https://user-badge.committers.top/bangladesh_public/USERNAME.svg)](https://user-badge.committers.top/bangladesh_public/USERNAME)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaberdevhub&color=7928ca&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
